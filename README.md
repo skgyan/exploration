@@ -1,2 +1,2 @@
 # exploration
-Any random tricks and hacks
+Random tricks and hacks
